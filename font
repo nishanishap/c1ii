@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Example</title>
+    <style>
+        body {
+            font-family: 'Rea Irvin', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is a heading with Arial font</h1>
+    <p>This is a paragraph with Arial font.</p>
+</body>
+</html>
