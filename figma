@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added Figma design assets"
+git push origin main
